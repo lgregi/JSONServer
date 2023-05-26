@@ -1,0 +1,12 @@
+<div class="login-container">
+    <h2>Login</h2>
+    <form>
+      <label for="username">Username:</label>
+      <input type="text" id="username" name="username" required (input)="Receber($event)" [value]="Username">
+  
+      <label for="password">Password:</label>
+      <input type="password" id="password" name="password" required (input)="Testar($event)" [value]="passwor">
+  
+      <button type="submit" (click)="cadastrar()">Login</button>
+    </form>
+  </div>

@@ -1,0 +1,94 @@
+h5 {
+    color:#999
+}
+
+h4 {
+    color:#555
+}
+
+h3 {
+    color: #555
+}
+
+.card img {
+    height: 200px;
+}
+
+.secao {
+    margin-top: 30px;
+    margin-bottom: 30px
+}
+
+.preco {
+    color: #f60;
+    font-weight: bold;
+    font-size: 20px
+}
+.teste{
+    /* logo */
+
+position: absolute;
+width: 215px;
+height: 215px;
+left: 74px;
+top: 1741px;
+
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 215px;
+height: 215px;
+left: 74px;
+top: 1741px;
+
+background: #262626;
+
+
+/* vetor */
+
+position: absolute;
+width: 154px;
+height: 123px;
+left: 104px;
+top: 1787px;
+
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 154px;
+height: 123px;
+left: 104px;
+top: 1787px;
+
+background: #FF8C00;
+border: 1px solid #FF8C00;
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 102.31px;
+height: 48.83px;
+left: 129.92px;
+top: 1799.11px;
+
+background: #262626;
+border: 1px solid #FF8C00;
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 32.99px;
+height: 34.05px;
+left: 164.12px;
+top: 1805.86px;
+
+background: linear-gradient(180deg, #FFC50D 0%, #FF8C00 100%);
+border: 1px solid #FF8C00;
+
+}
